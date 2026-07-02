@@ -270,9 +270,3 @@ This project demonstrates practical understanding of:
 Electronics & Telecommunication Engineer
 
 Embedded Systems | C Programming | Data Structures | Linux | Firmware Development
-
----
-
-## License
-
-Distributed under the MIT License.
